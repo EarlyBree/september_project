@@ -1,0 +1,7 @@
+Receipt ID: 3
+Customer:  Maria Bammer
+Employee: Karin Hauser
+Article: Computer
+Quantity: 1
+Price: 1192.24
+Date: 2021-09-27
